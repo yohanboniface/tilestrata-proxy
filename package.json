@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/naturalatlas/tilestrata-proxy",
   "dependencies": {
+    "lodash": "^3.10.1",
     "request": "^2.60.0"
   },
   "devDependencies": {
